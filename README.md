@@ -5,7 +5,7 @@
   Hi, I'm <strong>AKSHAY K K</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Full Stack Developer | django • Python •</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:akscanvas9539@gmail.com"><img src="https://img.shields.io/badge/📧_akscanvas9539@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -29,33 +29,25 @@
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://discord.com/users/._akshay_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/akshaykk-aks">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
+  <a href="https://instagram.com/aks_canvas__">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://linkedin.com/in/akshay-k-k-64a006338">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Akshay-K K&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
