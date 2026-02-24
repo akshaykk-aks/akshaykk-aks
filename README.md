@@ -25,10 +25,6 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
   <a href="https://discord.com/users/._akshay_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
@@ -45,10 +41,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Akshay-K K&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
 
 <br clear="all" />
 
